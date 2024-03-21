@@ -51,12 +51,16 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
+## NAME: Vikash s
+## REGISTER NO:212222240115
+![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/f3ef116a-cd86-4b15-b675-c6201b5e7b7c)
 
 
 
 ## Output  :
- 
- 
+ ![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/e55c5e4c-8de6-4436-9ce3-e17ce91acb64)
+![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/78a842e3-df59-439d-b162-9d6f1e5767cd)
+
  
  
 ## Result :
