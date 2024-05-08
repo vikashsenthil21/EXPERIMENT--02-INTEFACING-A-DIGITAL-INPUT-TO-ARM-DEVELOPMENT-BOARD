@@ -58,8 +58,9 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## Output  :
- ![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/e55c5e4c-8de6-4436-9ce3-e17ce91acb64)
-![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/78a842e3-df59-439d-b162-9d6f1e5767cd)
+![image](https://github.com/vikashsenthil21/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/119433834/1f68f6d1-623b-42e1-ae95-9630550b9090)
+
+
 
  
  
